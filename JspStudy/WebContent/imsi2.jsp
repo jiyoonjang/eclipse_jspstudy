@@ -7,17 +7,19 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>Àü¿ªº¯¼ö¿Í Áö¿ªº¯¼ö</h2>
+	<h2>ì „ì—­ë³€ìˆ˜ì™€ ì§€ì—­ë³€ìˆ˜</h2>
 	<%
 	String var2="JSP";
 	%>
 	<%
 	String var=var2+"Web Programmming";
 	%>
-	Ãâ·ÂÇÒ °ª:<%=var %><br>
-	¼ö½Ä°è»ê:<%=(3+5) %>
+	ì¶œë ¥í•  ê°’:<%=var %><br>
+	ìˆ˜ì‹ê³„ì‚°:<%=(3+5) %>
 	<hr>
-	¼ö½Ä°è»ê3:<%=(3*5) %>
-	¼ö½Ä°è»ê4:<%=(6/2) %>
+	ìˆ˜ì‹ê³„ì‚°3:<%=(3*5) %>
+	ìˆ˜ì‹ê³„ì‚°4:<%=(6/2) %>
+	<hr>
+	ìˆ˜ì‹ê³„ì‚°4:<%=(3-4) %>
 </body>
 </html>
